@@ -1,0 +1,11 @@
+- email: hardt@berkeley.edu
+  image: https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mhardt.jpg
+  name: Moritz Hardt
+  oh_info:
+  - "OH: W 4-5 (Soda 525)"
+- email: jsteinhardt@berkeley.edu
+  image: https://www.stat.berkeley.edu/~jsteinhardt/photo.png
+  name: Jacob Steinhardt
+  oh_info:
+  - "OH: Th 11-12 (Evans 325)"
+
