@@ -3,7 +3,7 @@ layout: page
 title: "Resources"
 ---
 
-We will be posting all lecture materials on the course syllabus.  In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-102/sp20).
+We will be posting all lecture materials on the course syllabus.  In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-102/fa20).
 
 Here is a collection of resources that will help you learn more about various concepts and skills covered in the class.  Learning by reading is a key part of being a well rounded data scientist.  We will not assign mandatory reading but instead encourage you to look at these _and other_ materials.  If you find something helpful, post it on Piazza, and consider contributing it to the course website.
 
