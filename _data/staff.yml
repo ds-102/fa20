@@ -1,35 +1,35 @@
-- email: akosua@berkeley.edu 
-  image: http://akosuabusia.com/images/akosua_wide.jpg
+- email: mcurmei@berkeley.edu 
+  image: https://mcurmei627.github.io/images/profile.jpg
   oh_info:
-  - "Disc: M 9-10 (Evans 344)"
-  - "Lab: W 9-10 (Evans 344)"
-  - "OH: Tu 11-12 (Evans 426)"
-  name: Akosua Busia
-- email: ashleychien@berkeley.edu
-  image: https://inst.eecs.berkeley.edu/~cs61a/fa17/assets/images/ashley-chien.jpg 
+  - "Disc: TBD"
+  - "Lab: TBD"
+  - "OH: TBD"
+  name: Mihaela Curmei
+- email: soloff@berkeley.edu
+  image: http://jake-soloff.github.io/jake.jpg
   oh_info:
-  - "Disc: M 12-1 and 1-2 (Evans 344)"
-  - "Lab: W 12-1 and 1-2 (Evans 344)"
-  - "OH: Fr 11-12 (Evans 426)"
-  name: Ashley Chien
+  - "Disc: TBD"
+  - "Lab: TBD"
+  - "OH: TBD"
+  name: Jake Soloff
+- email: wangyimeng98@berkeley.edu
+  image: http://ds100.org/fa19/resources/assets/staff_pics/yimeng_wang.png
+  oh_info:
+  - "Disc: TBD"
+  - "Lab: TBD"
+  - "OH: TBD"
+  name: Yimeng (Kobe) Wang
 - email: clarafy@berkeley.edu
-  image: https://people.eecs.berkeley.edu/~clarafy/paragon.jpg
+  image: https://clarafy.github.io/images/profile.jpg
   oh_info:
-  - "Disc: M 11-12 (Evans 344)"
-  - "Lab: W 10-11 (Evans 344)"
-  - "OH: M 12-1 (Evans 426)"
-  name: Clara Fannjiang
-- email: wenshuo_guo@berkeley.edu
-  image: https://i.imgur.com/pErEvk4.jpg?2
+  - "Disc: TBD"
+  - "Lab: TBD"
+  - "OH: TBD"
+  name: Clara Wong-Fannjiang
+- email: banghua@berkeley.edu
+  image: https://people.eecs.berkeley.edu/~banghua/photos/bio.jpg
   oh_info:
-  - "Disc: M 2-3 (Evans 344)"
-  - "Lab: W 11-12 (Evans 344)"
-  - "OH: Th 3-4 (Evans 426)"
-  name: Wenshuo Guo
-- email: serenalwang@berkeley.edu
-  image: http://www-inst.eecs.berkeley.edu/~wicse/content/images/contact/contact_SerenaWang.jpg
-  oh_info:
-  - "Disc: M 10-11 (Evans 344)"
-  - "Lab: W 2-3 (Evans 344)"
-  - "OH: W 1-2 (Evans 426)"
-  name: Serena Wang
+  - "Disc: TBD"
+  - "Lab: TBD"
+  - "OH: TBD"
+  name: Banghua Zhu

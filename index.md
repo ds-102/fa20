@@ -7,14 +7,14 @@ title: "Data, Inference, and Decisions"
 
 This course develops the probabilistic foundations of inference in data science, and builds a comprehensive view of the modeling and decision-making life cycle in data science including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-spring-stat-102-001-lec-001).
+This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-fall-stat-c102-001-lec-001).
 
 ## Important Information: 
 
-* **When:** Lectures Tuesdays and Thursdays from 9:30AM to 11:00AM
-* **Where:** [GPB 100](https://www.berkeley.edu/map?genetics)
+* **When:** Lectures Tuesdays and Thursdays from 2:00PM to 3:30PM
+* **Where:** Remote instruction
 * **What:** See the [lecture schedule](syllabus)
-* **News:** We will post updates about the class on [Piazza](https://piazza.com/class/k5ofad3nps24c1)
+* **News:** We will post updates about the class on Piazza.
 
 ## Lab, Section, and Office Hours Schedules
 
