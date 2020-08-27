@@ -3,21 +3,23 @@
   oh_info:
   - "Disc: TBD"
   - "Lab: TBD"
-  - "OH: Tuesdays (exact time TBD)"
+  - "OH: Tuesdays 1pm PT"
   name: Mihaela Curmei
+
 - email: soloff@berkeley.edu
   image: http://jake-soloff.github.io/jake.jpg
   oh_info:
   - "Disc: TBD"
   - "Lab: TBD"
-  - "Thursday evenings (exact time TBD)"
+  - "Thursday 5pm PT"
   name: Jake Soloff
+
 - email: wangyimeng98@berkeley.edu
   image: http://ds100.org/fa19/resources/assets/staff_pics/yimeng_wang.png
   oh_info:
   - "Disc: TBD"
   - "Lab: TBD"
-  - "OH: Fridays (exact time TDB)"
+  - "OH: Fridays 10am PT"
   name: Yimeng (Kobe) Wang
 
 - email: clarafy@berkeley.edu
@@ -26,6 +28,7 @@
   - "Disc: TBD"
   - "Lab: TBD"
   name: Clara Wong-Fannjiang
+
 - email: banghua@berkeley.edu
   image: https://people.eecs.berkeley.edu/~banghua/photos/bio.jpg
   oh_info:
