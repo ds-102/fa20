@@ -91,8 +91,7 @@
 #    - [**Notes**](assets/notes/notes04.pdf)
 
 - date: 9/15/20
-  topic: Modeling and Regression
-  slides: https://docs.google.com/presentation/d/1_VPJc1g4HOoM6D959oDF_S4v2TZG1BPETQ_H3aYB8XI/edit#slide=id.p
+  topic: Review of Bayesian Modeling
   lab: |
     - Lab 2
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab02/lab02.ipynb)
@@ -102,11 +101,10 @@
 #     - [Disc 2](assets/disc/disc02/disc02.pdf)
 #     - [Disc 2 Sol](assets/disc/disc02/disc02_sol.pdf)
   resources: |
-   - [**Notes**](assets/notes/notes06.pdf)
+#    - [**Notes**](assets/notes/notes06.pdf)
 
 - date: 9/17/20
-  topic: Identification Conditions for Regression
-  slides: https://docs.google.com/presentation/d/1tcytr8RINiygwI41V4navV9tpniI2WGoA8-NFUz4csM/edit#slide=id.p
+  topic: Graphical Models
   homework: |
     - HW 1 due
     - HW 2 released
@@ -115,16 +113,16 @@
 #     - [heart.csv](assets/hw/hw2/heart.csv)
 #  slides: assets/lectures/lecture7.pdf
   resources: |
-    - [**Notes**](assets/notes/notes07.pdf)
+#     - [**Notes**](assets/notes/notes07.pdf)
 
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
 
 - date: 9/22/20
-  topic: Introduction to Bayesian Modeling
+  topic: Rejection and Importance Sampling
   resources: |
-   - [**Notes**](assets/notes/notes08.pdf)
-   - [**iPython notebook**](assets/lectures/lecture8/ds102-lec08.ipynb)
-   - [**galton.csv**](assets/lectures/lecture8/galton.csv)
+#    - [**Notes**](assets/notes/notes08.pdf)
+#    - [**iPython notebook**](assets/lectures/lecture8/ds102-lec08.ipynb)
+#    - [**galton.csv**](assets/lectures/lecture8/galton.csv)
   discussion: |
     - Disc 3
 #     - [Disc 3](assets/disc/disc03/disc03.pdf)
@@ -134,16 +132,16 @@
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab03/lab03.ipynb%20)
 
 - date: 9/24/20
-  topic: Bayesian Hierarchical Models
-  slides: assets/lectures/lecture9.pdf
+  topic: MCMC and Gibbs Sampling
+#   slides: assets/lectures/lecture9.pdf
   resources: |
-   - [**Notes**](assets/notes/notes09.pdf)
+#    - [**Notes**](assets/notes/notes09.pdf)
 
-- date: 2/20/20
-  topic: Approximate Inference via Sampling I
-  slides: assets/lectures/lecture10.pdf
+- date: 9/29/20
+  topic: Regression (Bayesian)
+#   slides: assets/lectures/lecture10.pdf
   resources: |
-    - [**Notes**](assets/notes/notes10.pdf)
+#     - [**Notes**](assets/notes/notes10.pdf)
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture10/lecture10.ipynb)
   lab: |
     - Lab 4
@@ -156,10 +154,10 @@
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture11/lecture11.ipynb)
 
 - date: 10/1/20
-  topic: Approximate Inference via Sampling II
-  slides: assets/lectures/lecture11.pdf
+  topic: Regression (Frequentist)
+#   slides: assets/lectures/lecture11.pdf
   resources: |
-    - [**Notes**](assets/notes/notes11.pdf)
+#     - [**Notes**](assets/notes/notes11.pdf)
   homework: |
     - HW 2 due
     - HW 3 released
@@ -169,8 +167,8 @@
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture12/lecture12.ipynb)
 
 - date: 10/6/20
-  topic: Application of Bayesian Inference in Biology
-  slides: assets/lectures/lecture12.pdf
+  topic: Bootstrap
+#   slides: assets/lectures/lecture12.pdf
   lab: |
     - Lab 5
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab05/lab05.ipynb%20)
@@ -178,7 +176,7 @@
 #     - [Disc 4](assets/disc/disc04/disc04.pdf)
 #     - [Disc 4 Sol](assets/disc/disc04/disc04_sol.pdf)
   resources: |
-    - [**Notes**](assets/notes/notes12.pdf)
+#     - [**Notes**](assets/notes/notes12.pdf)
 
 
 - date: 10/8/20
@@ -187,15 +185,15 @@
 #  discussion: |
 #    - [Practice Midterm 2](assets/midterm_practice_2.pdf)
   topic: Causal Inference I
-  slides: assets/lectures/lecture13/lecture13.pdf
+#   slides: assets/lectures/lecture13/lecture13.pdf
   resources: |
-    - [**Notes**](assets/notes/notes13.pdf)
-    - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
+#     - [**Notes**](assets/notes/notes13.pdf)
+#     - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
 
 - date: 10/13/20
-  slides: assets/lectures/lecture14.pdf
+#   slides: assets/lectures/lecture14.pdf
   resources: |
-    - [**Notes**](assets/notes/notes14.pdf)
+#     - [**Notes**](assets/notes/notes14.pdf)
   topic: Causal Inference II
   lab: |
     - Lab 6
@@ -207,10 +205,10 @@
     - HW 3 due
 
 - date: 10/15/20
-  slides: assets/lectures/lecture15.pdf
+#   slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
   resources: |
-   - [**Notes**](assets/notes/notes15.pdf)
+#    - [**Notes**](assets/notes/notes15.pdf)
 
 - date: 10/20/20
 #  slides: assets/lectures/lecture16.pdf
@@ -221,18 +219,18 @@
     - Midterm Review
 
 - date: 10/22/20
-  topic: "Bandits: Greedy and UCB Algorithms"
-  slides: assets/lectures/lecture17.pdf
+  topic: Concentration Inequalities
+#   slides: assets/lectures/lecture17.pdf
   homework: |
     - HW 4 released
 #      - [HW 4 released](assets/hw/hw4/hw4_nosols.pdf)
 #     - [HW 4 tex file](assets/hw/hw4/hw4_nosols.tex)
 #     - [ihdp.csv](assets/hw/hw4/ihdp.csv)
   resources: |
-    - [**Notes**](assets/notes/notes17.pdf)
+#     - [**Notes**](assets/notes/notes17.pdf)
 
 - date: 10/27/20
-  topic: No Lecture
+  topic: Bandits I
   lab: |
     - Lab 7
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab07/lab07.ipynb%20)
@@ -241,15 +239,15 @@
 #     - [Disc 6 Sol](assets/disc/disc06/disc06_sol.pdf)
 
 - date: 10/29/20
-  topic: "Bandits: Thompson Sampling"
+  topic: Bandits II
   resources: |
-    - [**Notes**](assets/notes/notes21.pdf)
-    - [**iPython notebook**](assets/lectures/lecture21.ipynb)
+#     - [**Notes**](assets/notes/notes21.pdf)
+#     - [**iPython notebook**](assets/lectures/lecture21.ipynb)
 
  
 - date: 11/3/20
-  topic: Time Series Modeling
-  slides: https://docs.google.com/presentation/d/14HxPdK3WstK5IxeQJ3x5ORd3u567ejqvDKivhlZvlA0/edit
+  topic: Matching Markets
+#   slides: https://docs.google.com/presentation/d/14HxPdK3WstK5IxeQJ3x5ORd3u567ejqvDKivhlZvlA0/edit
   lab: |
     - Lab 8
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab08/lab08.ipynb%20)
@@ -258,10 +256,10 @@
 #     - [Disc 7](assets/disc/disc07/disc07.pdf)
 #     - [Disc 7 Sol](assets/disc/disc07/disc07_sol.pdf)
   resources: |
-    - [**Notes**](assets/notes/notes22.pdf)
+#     - [**Notes**](assets/notes/notes22.pdf)
 
 - date: 11/5/20
-  topic: Introduction to Reinforcement Learning
+  topic: Game Theory
   homework: |
     - HW 4 due
     - HW 5 released
@@ -270,11 +268,11 @@
 #     - [hw5_nosols_tex.zip](assets/hw/hw5/hw5_nosols_tex.zip)
 
   resources: |
-    - [**Notes**](assets/notes/notes23.pdf)
+#     - [**Notes**](assets/notes/notes23.pdf)
 
 - date: 11/10/20
 #  slides: assets/lectures/lecture21.pdf
-  topic: "Q-Learning and Function Approximation"
+  topic: Reinforcement Learning I
   lab: |
     - Lab 9
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab09/lab09.ipynb%20)
@@ -282,16 +280,16 @@
 #     - [Disc 8](assets/disc/disc08/disc08.pdf)
 #     - [Disc 8 Sol](assets/disc/disc08/disc08_sol.pdf)
   resources: |
-    - [**Notes**](assets/notes/notes24.pdf)
+#     - [**Notes**](assets/notes/notes24.pdf)
 
 - date: 11/12/20
-  topic: "Neural Nets"
+  topic: Reinforcement Learning II
   resources: |
-    - [**Notes**](assets/notes/notes25.pdf)
+#    - [**Notes**](assets/notes/notes25.pdf)
 
 
 - date: 11/17/20
-  topic: "Bootstrap"
+  topic: Nonparametric Methods
   lab: |
     - Lab 10
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab10/lab10.ipynb%20)
@@ -300,15 +298,15 @@
 #     - [Disc 9](assets/disc/disc09/disc09.pdf)
 #     - [Disc 9 Sol](assets/disc/disc09/disc09_sol.pdf)
   resources: |
-    - [**Notes**](assets/notes/notes26.pdf)
-    - [**bootstrap.ipynb**](assets/lectures/bootstrap.ipynb)
+#     - [**Notes**](assets/notes/notes26.pdf)
+#     - [**bootstrap.ipynb**](assets/lectures/bootstrap.ipynb)
 
 - date: 11/19/20
-  slides: assets/lectures/lecture27/lect27.pdf
+#   slides: assets/lectures/lecture27/lect27.pdf
   resources: |
-    - [**Lecture 27 B slides**](assets/lectures/lecture27/lect27b.pdf)
-    - [**Notes**](assets/notes/notes27.pdf)
-  topic: "Robustness and Distribution Shift"
+#     - [**Lecture 27 B slides**](assets/lectures/lecture27/lect27b.pdf)
+#     - [**Notes**](assets/notes/notes27.pdf)
+  topic: Generalization, Robustness, Distribution Shift I
   homework: |
     - HW 5 due
     - HW 6 released
@@ -317,8 +315,8 @@
 
 
 - date: 11/24/20
-  slides: https://ds-102.github.io/fa19/assets/lectures/lecture23.pdf
-  topic: "Privacy I"
+#   slides: https://ds-102.github.io/fa19/assets/lectures/lecture23.pdf
+  topic: Generalization, Robustness, Distribution Shift II
   lab: |
     - Lab 11
 # http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab11/lab11.ipynb)
@@ -327,19 +325,19 @@
 #     - [Disc 10](assets/disc/disc10/disc10.pdf)
 #     - [Disc 10 Sol](assets/disc/disc10/disc10_sol.pdf)
   resources: |
-    - [**Notes**](assets/notes/notes28.pdf)
+#     - [**Notes**](assets/notes/notes28.pdf)
 
 - date: 11/26/20
   topic: "Thanksgiving Break"
 
 - date: 12/1/20
-  topic: "Privacy II"
+  topic: Differential Privacy
   resources: |
-    - [**Notes**](assets/notes/notes29.pdf)
+#     - [**Notes**](assets/notes/notes29.pdf)
 
 
 - date: 12/3/20
-  topic: Real-World Consequences of Decisions
+  topic: Wrap-up Lecture
   homework: |
     - HW 6 due
   lab: |
