@@ -29,8 +29,8 @@
 
 - date: 8/27/20 
   topic: Course Overview, Making Decisions Under Uncertainty
-  description: In this lecture we provide an overview of data science and where it might head in the future.
-    We discuss the importance of decision making rather than simple inference. As a first step in this direction we
+  description: We provide an overview of data science and where it might head in the future.
+    We discuss the importance of decision-making rather than simple inference. As a first step in this direction we
     cover the different angles through which a simple hypothesis test can be viewed.
   slides: assets/lectures/lecture1.pdf
   resources: |
@@ -69,7 +69,7 @@
 
 - date: 9/8/20
   topic: False Discovery Rate Control
-  slides: assets/lectures/lecture4.pdf
+  slides: assets/lectures/sp20/lecture4_sp20.pdf
 #  resources: |
 #    - [**Notes**](assets/notes/notes03.pdf)
   description: In this lecture we continue developing our decision-theoretic framework. In particular we consider properties of the risk of
