@@ -27,7 +27,7 @@
 # for d in days[(days.dayofweek == 1) | (days.dayofweek == 3)]:
 #     print(str(d.month) + "/" + str(d.day) + "/" + str(d.year))
 
-- date: 8/27/20 
+- date: Thursday 8/27/20 
   topic: Course Overview, Making Decisions Under Uncertainty
   description: We provide an overview of data science and where it might head in the future.
     We discuss the importance of decision-making rather than simple inference. As a first step in this direction we
@@ -39,314 +39,117 @@
     - Discussion by nine commentators [1](https://hdsr.mitpress.mit.edu/pub/djb16hzl?readingCollection=72befc2a), [2](https://hdsr.mitpress.mit.edu/pub/kyzf7fjv?readingCollection=72befc2a), [3](https://hdsr.mitpress.mit.edu/pub/rim3pvdw?readingCollection=72befc2a), [4](https://hdsr.mitpress.mit.edu/pub/pqddq8u5?readingCollection=72befc2a), [5](https://hdsr.mitpress.mit.edu/pub/wiq01ru6?readingCollection=72befc2a), [6](https://hdsr.mitpress.mit.edu/pub/pjebp7io?readingCollection=72befc2a), [7](https://hdsr.mitpress.mit.edu/pub/plto69bh?readingCollection=72befc2a)
     - [Dr. AI or: How I Learned to Stop Worrying and Love Economics](https://hdsr.mitpress.mit.edu/pub/2imtstfu?readingCollection=72befc2a)
 
-- date: 9/1/20
+- date: Tuesday 9/1/20
   topic: Review of Frequentist and Bayesian Decision-Making
-  description: In this lecture we continue investigating the intricacies that arise when running a simple hypothesis test.
-    We look at the difference between the frequentist and the Bayesian view of hypothesis testing. We further develop these ideas by
-    introducing a decision-theoretic framework. Using this framework we can mathematically define both Bayesian and frequentist decision rules.
-#  slides: assets/lectures/lecture2.pdf
+  description: We continue investigating the intricacies that arise when running a simple hypothesis test.
+    We look at the difference between the frequentist and the Bayesian views of hypothesis testing. We further develop these ideas by
+    introducing a decision-theoretic framework.
   resources: |
     - [**Notes**](assets/notes/notes02.pdf)
-#  discussion: |
-#    - [Disc1](https://github.com/ds-102/fa19/blob/master/disc/disc01.pdf)
+  discussion: |
+    - Disc 1
 
-- date: 9/3/20
+- date: Thursday 9/3/20
   topic: Neyman-Pearson Lemma
   resources: |
     - [**Notes**](assets/notes/notes03.pdf)
-  homework: |
-    - HW 1 released
-#     - [HW 1 released](assets/hw/hw1/hw1_nosols.pdf)
-#     - [HW 1 tex file](assets/hw/hw1/hw1_nosols.tex)
-#     - [lord.py](assets/hw/hw1/lord.py)
-  discussion: |
-    - Disc 1
-#     - [Disc 1](assets/disc/disc01/disc01.pdf)
-#     - [Disc 1 Sol](assets/disc/disc01/disc01_sol.pdf)
+  homework:
+  discussion:
   lab: |
-    - Lab 1
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab01/lab01.ipynb)
+    - Lab 1 (released over weekend or on 9/8, TBD)
 
-- date: 9/8/20
+- date: Tuesday 9/8/20
   topic: False Discovery Rate Control
   slides: assets/lectures/sp20/lecture4_sp20.pdf
-#  resources: |
-#    - [**Notes**](assets/notes/notes03.pdf)
-  description: In this lecture we continue developing our decision-theoretic framework. In particular we consider properties of the risk of
+  description: We continue developing our decision-theoretic framework. In particular we consider properties of the risk of
     various loss functions. The main portion of the lecture is dedicated to false discovery rate control. We look at two ideas that go beyond
     basic hypothesis testing. We consider the Bonferroni test which is a naive way of controlling the family-wise error rate. We then look into
     Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
-#  slides: assets/lectures/lecture3.pdf
   resources: |
     - [**Notes**](assets/notes/notes04.pdf)
-    - [**Optional Notes**](assets/notes/notes_online_FDR.pdf)
+    - [**Supplemental Notes (Optional)**](assets/notes/notes_online_FDR.pdf)
+  hw: |
+    - HW 1 released this week
 
-- date: 9/10/20
+- date: Thursday 9/10/20
   topic: Fairness in decision-making
   slides: https://docs.google.com/presentation/d/16U2-pEk7koH-GbjVgt7XTPUnWWWJURTRddCXpz-GIkc/edit?usp=sharing
   resources: |
     - [**Notes**](assets/notes/notes05.pdf)
-#  slides: assets/lectures/lecture4.pdf
-#  resources: |
-#    - [**Notes**](assets/notes/notes04.pdf)
 
 - date: 9/15/20
   topic: Review of Bayesian Modeling
-  lab: |
-    - Lab 2
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab02/lab02.ipynb)
-#  slides: assets/lectures/lecture6.pdf
-  discussion: |
-      - Disc 2
-#     - [Disc 2](assets/disc/disc02/disc02.pdf)
-#     - [Disc 2 Sol](assets/disc/disc02/disc02_sol.pdf)
-  resources: |
-#    - [**Notes**](assets/notes/notes06.pdf)
 
 - date: 9/17/20
   topic: Graphical Models
-  homework: |
-    - HW 1 due
-    - HW 2 released
-#     - [HW 2 released](assets/hw/hw2/hw02_nosols.pdf)
-#     - [HW 2 tex file](assets/hw/hw2/hw02_nosols.tex)
-#     - [heart.csv](assets/hw/hw2/heart.csv)
-#  slides: assets/lectures/lecture7.pdf
-  resources: |
-#     - [**Notes**](assets/notes/notes07.pdf)
-
-#    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
-
+  
 - date: 9/22/20
   topic: Rejection and Importance Sampling
-  resources: |
-#    - [**Notes**](assets/notes/notes08.pdf)
-#    - [**iPython notebook**](assets/lectures/lecture8/ds102-lec08.ipynb)
-#    - [**galton.csv**](assets/lectures/lecture8/galton.csv)
-  discussion: |
-    - Disc 3
-#     - [Disc 3](assets/disc/disc03/disc03.pdf)
-#     - [Disc 3 Sol](assets/disc/disc03/disc03_sol.pdf)
-  lab: |
-    - Lab 3
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab03/lab03.ipynb%20)
-
+  
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
-#   slides: assets/lectures/lecture9.pdf
-  resources: |
-#    - [**Notes**](assets/notes/notes09.pdf)
 
 - date: 9/29/20
   topic: Regression (Bayesian)
-#   slides: assets/lectures/lecture10.pdf
-  resources: |
-#     - [**Notes**](assets/notes/notes10.pdf)
-#    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture10/lecture10.ipynb)
-  lab: |
-    - Lab 4
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab04/lab04.ipynb%20)
-
-#- date: 10/3/19
-#  topic: Intervals for Estimation (Confidence and Credible)
-#  slides: assets/lectures/lecture11.pdf
-#  resources: |
-#    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture11/lecture11.ipynb)
 
 - date: 10/1/20
   topic: Regression (Frequentist)
-#   slides: assets/lectures/lecture11.pdf
-  resources: |
-#     - [**Notes**](assets/notes/notes11.pdf)
-  homework: |
-    - HW 2 due
-    - HW 3 released
-#     - [HW 3 released](assets/hw/hw3/hw3_nosols.pdf)
-#     - [HW 3 tex file](assets/hw/hw3/hw3_nosols.tex)
-#  resources: |
-#    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture12/lecture12.ipynb)
 
 - date: 10/6/20
   topic: Bootstrap
-#   slides: assets/lectures/lecture12.pdf
-  lab: |
-    - Lab 5
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab05/lab05.ipynb%20)
-  discussion: |
-#     - [Disc 4](assets/disc/disc04/disc04.pdf)
-#     - [Disc 4 Sol](assets/disc/disc04/disc04_sol.pdf)
-  resources: |
-#     - [**Notes**](assets/notes/notes12.pdf)
 
 
 - date: 10/8/20
-#  lab: |
-#    - [Practice Midterm 1](assets/midterm_practice.pdf)
-#  discussion: |
-#    - [Practice Midterm 2](assets/midterm_practice_2.pdf)
   topic: Causal Inference I
-#   slides: assets/lectures/lecture13/lecture13.pdf
-  resources: |
-#     - [**Notes**](assets/notes/notes13.pdf)
-#     - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
 
 - date: 10/13/20
-#   slides: assets/lectures/lecture14.pdf
-  resources: |
-#     - [**Notes**](assets/notes/notes14.pdf)
   topic: Causal Inference II
-  lab: |
-    - Lab 6
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab06/lab06.ipynb)
-  discussion: |
-#     - [Disc 5](assets/disc/disc05/disc05.pdf)
-#     - [Disc 5 Sol](assets/disc/disc05/disc05_sol.pdf)
-  homework: |
-    - HW 3 due
 
 - date: 10/15/20
-#   slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
-  resources: |
-#    - [**Notes**](assets/notes/notes15.pdf)
 
 - date: 10/20/20
-#  slides: assets/lectures/lecture16.pdf
   topic: Midterm
-#  resources: |
-#    - [**Notes**](assets/notes/notes16.pdf)
-  discussion: |
-    - Midterm Review
 
 - date: 10/22/20
   topic: Concentration Inequalities
-#   slides: assets/lectures/lecture17.pdf
-  homework: |
-    - HW 4 released
-#      - [HW 4 released](assets/hw/hw4/hw4_nosols.pdf)
-#     - [HW 4 tex file](assets/hw/hw4/hw4_nosols.tex)
-#     - [ihdp.csv](assets/hw/hw4/ihdp.csv)
-  resources: |
-#     - [**Notes**](assets/notes/notes17.pdf)
 
 - date: 10/27/20
   topic: Bandits I
-  lab: |
-    - Lab 7
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab07/lab07.ipynb%20)
-  discussion: |
-#     - [Disc 6](assets/disc/disc06/disc06.pdf)
-#     - [Disc 6 Sol](assets/disc/disc06/disc06_sol.pdf)
 
 - date: 10/29/20
   topic: Bandits II
-  resources: |
-#     - [**Notes**](assets/notes/notes21.pdf)
-#     - [**iPython notebook**](assets/lectures/lecture21.ipynb)
 
- 
 - date: 11/3/20
   topic: Matching Markets
-#   slides: https://docs.google.com/presentation/d/14HxPdK3WstK5IxeQJ3x5ORd3u567ejqvDKivhlZvlA0/edit
-  lab: |
-    - Lab 8
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab08/lab08.ipynb%20)
-  discussion: |
-    - Disc 7
-#     - [Disc 7](assets/disc/disc07/disc07.pdf)
-#     - [Disc 7 Sol](assets/disc/disc07/disc07_sol.pdf)
-  resources: |
-#     - [**Notes**](assets/notes/notes22.pdf)
 
 - date: 11/5/20
   topic: Game Theory
-  homework: |
-    - HW 4 due
-    - HW 5 released
-#      - [HW 5 released](assets/hw/hw5/hw5_nosols.pdf)
-#     - [bioequivalence.csv](assets/hw/hw5/bioequivalence.csv)
-#     - [hw5_nosols_tex.zip](assets/hw/hw5/hw5_nosols_tex.zip)
-
-  resources: |
-#     - [**Notes**](assets/notes/notes23.pdf)
 
 - date: 11/10/20
-#  slides: assets/lectures/lecture21.pdf
   topic: Reinforcement Learning I
-  lab: |
-    - Lab 9
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab09/lab09.ipynb%20)
-  discussion: |
-#     - [Disc 8](assets/disc/disc08/disc08.pdf)
-#     - [Disc 8 Sol](assets/disc/disc08/disc08_sol.pdf)
-  resources: |
-#     - [**Notes**](assets/notes/notes24.pdf)
 
 - date: 11/12/20
   topic: Reinforcement Learning II
-  resources: |
-#    - [**Notes**](assets/notes/notes25.pdf)
-
 
 - date: 11/17/20
   topic: Nonparametric Methods
-  lab: |
-    - Lab 10
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab10/lab10.ipynb%20)
-  discussion: |
-    - Disc 9
-#     - [Disc 9](assets/disc/disc09/disc09.pdf)
-#     - [Disc 9 Sol](assets/disc/disc09/disc09_sol.pdf)
-  resources: |
-#     - [**Notes**](assets/notes/notes26.pdf)
-#     - [**bootstrap.ipynb**](assets/lectures/bootstrap.ipynb)
 
 - date: 11/19/20
-#   slides: assets/lectures/lecture27/lect27.pdf
-  resources: |
-#     - [**Lecture 27 B slides**](assets/lectures/lecture27/lect27b.pdf)
-#     - [**Notes**](assets/notes/notes27.pdf)
   topic: Generalization, Robustness, Distribution Shift I
-  homework: |
-    - HW 5 due
-    - HW 6 released
-#     - [HW 6 released](assets/hw/hw6/hw6_nosols.pdf)
-#     - [hw6_nosols.tex](assets/hw/hw6/hw6_nosols.tex)
-
-
+  
 - date: 11/24/20
-#   slides: https://ds-102.github.io/fa19/assets/lectures/lecture23.pdf
   topic: Generalization, Robustness, Distribution Shift II
-  lab: |
-    - Lab 11
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab11/lab11.ipynb)
-  discussion: |
-    - Disc 10
-#     - [Disc 10](assets/disc/disc10/disc10.pdf)
-#     - [Disc 10 Sol](assets/disc/disc10/disc10_sol.pdf)
-  resources: |
-#     - [**Notes**](assets/notes/notes28.pdf)
 
 - date: 11/26/20
   topic: "Thanksgiving Break"
 
 - date: 12/1/20
   topic: Differential Privacy
-  resources: |
-#     - [**Notes**](assets/notes/notes29.pdf)
-
-
+  
 - date: 12/3/20
   topic: Wrap-up Lecture
-  homework: |
-    - HW 6 due
-  lab: |
-    - Lab 12
-# http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab12/lab12.ipynb)
-  discussion: |
-#     - [Disc 11](assets/disc/disc11/disc11.pdf)
-#     - [Disc 11 Sol](assets/disc/disc11/disc11_sol.pdf)
-
+  
 - date: 12/8/20
   topic: RRR week
 

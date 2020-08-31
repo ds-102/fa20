@@ -4,7 +4,7 @@ title: "Syllabus"
 page_class: content-wide
 ---
 
-This syllabus is still under development and is subject to change.
+This syllabus is under development and is subject to change. Unless otherwise noted, recorded videos for discussions will be released Tuesdays and Wednesday discussion hours will be reserved for questions about the discussion material. Labs and discussions will occur on the following Monday and following Wednesday, respectively, of the dates below.
 
 <script>
   function get_buttom() {
@@ -73,8 +73,8 @@ This syllabus is still under development and is subject to change.
         <th> Lecture </th>
         <th> Date </th>
         <th> Topic </th>
-        <th> Lab </th>
-        <th> Discussion </th>
+        <th> Lab</th>
+        <th> Discussion</th>
         <th> Homework </th>
       </tr>
     </thead>
