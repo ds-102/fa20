@@ -44,6 +44,7 @@
   description: We continue investigating the intricacies that arise when running a simple hypothesis test.
     We look at the difference between the frequentist and the Bayesian views of hypothesis testing. We further develop these ideas by
     introducing a decision-theoretic framework.
+  slides: assets/lectures/lecture2.pdf
   resources: |
     - [**Notes**](assets/notes/notes02.pdf)
   discussion: |
