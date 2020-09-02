@@ -11,12 +11,12 @@ This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-fal
 
 ## Important Information: 
 
-* **When:** Lectures Tuesdays and Thursdays from 2:00PM to 3:30PM. See below for staff office hours.
+* **When:** Lectures Tuesdays and Thursdays from 2:00PM to 3:30PM. See below for discussion, lab, and staff office hours.
 * **Where:** Remote instruction
 * **What:** See the [lecture schedule](syllabus)
 * **News:** We will post updates about the class on Piazza.
 
-## Lab, Section, and Office Hours Schedules 
+## Lab, Discussion, and Office Hours Schedules 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_i6vcnkqpt1pl5rfp8dsqle1kus%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
