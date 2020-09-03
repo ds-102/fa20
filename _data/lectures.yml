@@ -53,13 +53,12 @@
 
 - date: Thursday 9/3/20
   topic: False Discovery Rate Control
-  description:
-    We consider the Bonferroni test, which is a naive way of controlling the family-wise error rate.
+  description: We consider the Bonferroni test, which is a naive way of controlling the family-wise error rate.
     We then look into Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
   slides: assets/lectures/lecture3.pdf
   resources: |
     - [**Notes**](assets/notes/notes04.pdf)
-  homework: HW 1
+  homework: HW 1 released
   lab: |
     - Lab 1 (released over weekend or on 9/8, TBD)
 
