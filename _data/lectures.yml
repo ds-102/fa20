@@ -40,37 +40,36 @@
     - [Dr. AI or: How I Learned to Stop Worrying and Love Economics](https://hdsr.mitpress.mit.edu/pub/2imtstfu?readingCollection=72befc2a)
 
 - date: Tuesday 9/1/20
-  topic: Review of Frequentist and Bayesian Decision-Making
-  description: We continue investigating the intricacies that arise when running a simple hypothesis test.
-    We look at the difference between the frequentist and the Bayesian views of hypothesis testing. We further develop these ideas by
-    introducing a decision-theoretic framework.
+  topic: Review of Decision-Making and Neyman-Pearson Lemma
+  description: We continue investigating the different ways of understanding error in a single hypothesis test.
+    We introduce the Neyman-Pearson principle and Neyman-Pearson Lemma for controlling error in a single test, and
+    also introduce the challenges involved in multiple hypothesis testing.
   slides: assets/lectures/lecture2.pdf
   resources: |
     - [**Notes**](assets/notes/notes02.pdf)
   discussion: |
     - [Disc 1](assets/disc/disc01/disc01.pdf)
+    - [Disc 1 Solutions](assets/disc/disc01/disc01_sols.pdf)
 
 - date: Thursday 9/3/20
-  topic: Neyman-Pearson Lemma
+  topic: False Discovery Rate Control
+  description:
+    We consider the Bonferroni test, which is a naive way of controlling the family-wise error rate.
+    We then look into Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
+  slides: assets/lectures/lecture3.pdf
   resources: |
-    - [**Notes**](assets/notes/notes03.pdf)
-  homework:
-  discussion:
+    - [**Notes**](assets/notes/notes04.pdf)
+  homework: HW 1
   lab: |
     - Lab 1 (released over weekend or on 9/8, TBD)
 
 - date: Tuesday 9/8/20
-  topic: False Discovery Rate Control
-  slides: assets/lectures/sp20/lecture4_sp20.pdf
-  description: We continue developing our decision-theoretic framework. In particular we consider properties of the risk of
-    various loss functions. The main portion of the lecture is dedicated to false discovery rate control. We look at two ideas that go beyond
-    basic hypothesis testing. We consider the Bonferroni test which is a naive way of controlling the family-wise error rate. We then look into
-    Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
+  topic: TBD
+  # slides: assets/lectures/sp20/lecture4_sp20.pdf
+  description:
   resources: |
-    - [**Notes**](assets/notes/notes04.pdf)
-    - [**Supplemental Notes (Optional)**](assets/notes/notes_online_FDR.pdf)
-  hw: |
-    - HW 1 released this week
+#   - [**Notes**](assets/notes/notes04.pdf)
+#     - [**Supplemental Notes (Optional)**](assets/notes/notes_online_FDR.pdf)
 
 - date: Thursday 9/10/20
   topic: Fairness in decision-making
