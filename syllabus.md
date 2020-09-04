@@ -4,7 +4,7 @@ title: "Syllabus"
 page_class: content-wide
 ---
 
-This syllabus is under development and is subject to change. Unless otherwise noted, recorded videos for discussions will be released Tuesdays and Wednesday discussion hours will be reserved for questions about the discussion material. Labs, discussions, and HWs will occur on the Monday, Wednesday, and Fridays following the dates below, respectively.
+This syllabus is under development and is subject to change. Unless otherwise noted, recorded videos for discussions will be released Tuesdays and Wednesday discussion hours will be reserved for questions about the discussion material. Labs, discussions, and HW releases/deadlines will occur on the Monday, Wednesday, and Fridays following the dates below, respectively.
 
 <script>
   function get_buttom() {
