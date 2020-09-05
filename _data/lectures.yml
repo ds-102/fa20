@@ -58,7 +58,8 @@
   slides: assets/lectures/lecture3.pdf
   resources: |
     - [**Notes**](assets/notes/notes04.pdf)
-  homework: [HW 1 released](assets/hw/hw1/hw01.zip)
+  homework: |
+    - [HW 1 released](assets/hw/hw1/hw01.zip)
   lab: |
     - Lab 1 (released over weekend or on 9/8, TBD)
 
