@@ -27,7 +27,7 @@
 # for d in days[(days.dayofweek == 1) | (days.dayofweek == 3)]:
 #     print(str(d.month) + "/" + str(d.day) + "/" + str(d.year))
 
-- date: Thursday 8/27/20 
+- date: Thursday 8/27/20
   topic: Course Overview, Making Decisions Under Uncertainty
   description: We provide an overview of data science and where it might head in the future.
     We discuss the importance of decision-making rather than simple inference. As a first step in this direction we
@@ -35,7 +35,7 @@
   slides: assets/lectures/lecture1.pdf
   resources: |
     **Readings**
-    - [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1) 
+    - [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1)
     - Discussion by nine commentators [1](https://hdsr.mitpress.mit.edu/pub/djb16hzl?readingCollection=72befc2a), [2](https://hdsr.mitpress.mit.edu/pub/kyzf7fjv?readingCollection=72befc2a), [3](https://hdsr.mitpress.mit.edu/pub/rim3pvdw?readingCollection=72befc2a), [4](https://hdsr.mitpress.mit.edu/pub/pqddq8u5?readingCollection=72befc2a), [5](https://hdsr.mitpress.mit.edu/pub/wiq01ru6?readingCollection=72befc2a), [6](https://hdsr.mitpress.mit.edu/pub/pjebp7io?readingCollection=72befc2a), [7](https://hdsr.mitpress.mit.edu/pub/plto69bh?readingCollection=72befc2a)
     - [Dr. AI or: How I Learned to Stop Worrying and Love Economics](https://hdsr.mitpress.mit.edu/pub/2imtstfu?readingCollection=72befc2a)
 
@@ -61,7 +61,7 @@
   homework: |
     - [HW 1 released](assets/hw/hw1/hw01.zip)
   lab: |
-    - Lab 1 (released over weekend or on 9/8, TBD)
+    - [Lab 1 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/): _Due Wednesday Sep 9th_
 
 - date: Tuesday 9/8/20
   topic: TBD
@@ -82,10 +82,10 @@
 
 - date: 9/17/20
   topic: Graphical Models
-  
+
 - date: 9/22/20
   topic: Rejection and Importance Sampling
-  
+
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
 
@@ -137,7 +137,7 @@
 
 - date: 11/19/20
   topic: Generalization, Robustness, Distribution Shift I
-  
+
 - date: 11/24/20
   topic: Generalization, Robustness, Distribution Shift II
 
@@ -146,10 +146,10 @@
 
 - date: 12/1/20
   topic: Differential Privacy
-  
+
 - date: 12/3/20
   topic: Wrap-up Lecture
-  
+
 - date: 12/8/20
   topic: RRR week
 
@@ -158,4 +158,3 @@
 
 - date: 12/15/20
   topic: Final Exam
-
