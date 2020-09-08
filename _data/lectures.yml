@@ -67,11 +67,12 @@
   topic: Online False Discovery Rate Control
   slides: assets/lectures/lecture4.pdf
   description: We consider how to extend FDR control to the online setting, and introduce the LORD algorithm.
+    We also review the Bayesian and frequentist approahces to decision-making.
   resources: |
-    - [**Notes**](assets/notes/notes_online_FDR.pdf)
+    - [**Notes on Online FDR**](assets/notes/notes_online_FDR.pdf)
 
 - date: Thursday 9/10/20
-  topic: Fairness in decision-making
+  topic: Fairness in Decision-Making
   slides: https://docs.google.com/presentation/d/16U2-pEk7koH-GbjVgt7XTPUnWWWJURTRddCXpz-GIkc/edit?usp=sharing
   resources: |
     - [**Notes**](assets/notes/notes05.pdf)
