@@ -64,12 +64,11 @@
     - [Lab 1 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/): _Due Wednesday Sep 9th_
 
 - date: Tuesday 9/8/20
-  topic: TBD
-  # slides: assets/lectures/sp20/lecture4_sp20.pdf
-  description:
+  topic: Online False Discovery Rate Control
+  slides: assets/lectures/lecture4.pdf
+  description: We consider how to extend FDR control to the online setting, and introduce the LORD algorithm.
   resources: |
-#   - [**Notes**](assets/notes/notes04.pdf)
-#     - [**Supplemental Notes (Optional)**](assets/notes/notes_online_FDR.pdf)
+    - [**Notes**](assets/notes/notes_online_FDR.pdf)
 
 - date: Thursday 9/10/20
   topic: Fairness in decision-making
