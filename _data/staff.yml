@@ -1,38 +1,38 @@
 - email: mcurmei@berkeley.edu 
   image: https://mcurmei627.github.io/images/profile.jpg
   oh_info:
-  - "Disc: TBD"
-  - "Lab: TBD"
+  - "Disc: Wednesdays 12pm-1pm PT, 1pm-2pm PT"
+  - "Lab: Mondays 12pm-2pm PT"
   - "OH: Tuesdays 1pm PT"
   name: Mihaela Curmei
 
 - email: soloff@berkeley.edu
   image: http://jake-soloff.github.io/jake.jpg
   oh_info:
-  - "Disc: TBD"
-  - "Lab: TBD"
+  - "Disc: Wednesdays 2pm-3pm PT, 3pm-4pm PT"
+  - "Lab: Mondays 2pm-3pm PT, 4pm-5pm PT"
   - "Thursday 5pm PT"
   name: Jake Soloff
 
 - email: wangyimeng98@berkeley.edu
   image: http://ds100.org/fa19/resources/assets/staff_pics/yimeng_wang.png
   oh_info:
-  - "Disc: TBD"
-  - "Lab: TBD"
+  - "Disc: Wednesdays 4pm-5pm PT"
+  - "Lab: Mondays 3pm-4pm PT"
   - "OH: Fridays 10am PT"
   name: Yimeng (Kobe) Wang
 
 - email: clarafy@berkeley.edu
   image: https://clarafy.github.io/images/profile.jpg
   oh_info:
-  - "Disc: TBD"
+  - "Disc: Wednesdays 9am-10am PT"
   - "Lab: TBD"
   name: Clara Wong-Fannjiang
 
 - email: banghua@berkeley.edu
   image: https://people.eecs.berkeley.edu/~banghua/photos/bio.jpg
   oh_info:
-  - "Disc: TBD"
-  - "Lab: TBD"
+  - "Disc: Wednesdays 10am-11am PT, 11am-12pm PT"
+  - "Lab: Mondays 8am-10am PT"
   - "OH: Thursday 8:30am PT"
   name: Banghua Zhu
