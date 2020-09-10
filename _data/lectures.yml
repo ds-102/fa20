@@ -64,15 +64,18 @@
     - [Lab 1 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/): _Due Wednesday Sep 9th_
 
 - date: Tuesday 9/8/20
-  topic: TBD
-  # slides: assets/lectures/sp20/lecture4_sp20.pdf
-  description:
+  topic: Online False Discovery Rate Control
+  slides: assets/lectures/lecture4.pdf
+  description: We consider how to extend FDR control to the online setting, and introduce the LORD algorithm.
+    We also review the Bayesian and frequentist approahces to decision-making.
   resources: |
-#   - [**Notes**](assets/notes/notes04.pdf)
-#     - [**Supplemental Notes (Optional)**](assets/notes/notes_online_FDR.pdf)
+    - [**Notes on Online FDR**](assets/notes/notes_online_FDR.pdf)
+  discussion: |
+    - [Disc 2](assets/disc/disc02/disc02.pdf)
+    - [Disc 2 Solutions](assets/disc/disc02/disc02_sol.pdf)
 
 - date: Thursday 9/10/20
-  topic: Fairness in decision-making
+  topic: Fairness in Decision-Making
   slides: https://docs.google.com/presentation/d/16U2-pEk7koH-GbjVgt7XTPUnWWWJURTRddCXpz-GIkc/edit?usp=sharing
   resources: |
     - [**Notes**](assets/notes/notes05.pdf)
