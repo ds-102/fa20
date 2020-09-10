@@ -76,9 +76,9 @@
 
 - date: Thursday 9/10/20
   topic: Frequentist and Bayesian Decision-Making, Privacy, Fairness
-  slides:
+  slides: assets/lectures/lecture5.pdf
   resources: |
-#     - [**Notes**](assets/notes/notes05.pdf)
+    - [**Notes (Fairness in Decision-Making)**](assets/notes/notes05.pdf)
 
 - date: 9/15/20
   topic: Review of Bayesian Modeling
