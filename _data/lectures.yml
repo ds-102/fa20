@@ -40,8 +40,8 @@
     - [Dr. AI or: How I Learned to Stop Worrying and Love Economics](https://hdsr.mitpress.mit.edu/pub/2imtstfu?readingCollection=72befc2a)
 
 - date: Tuesday 9/1/20
-  topic: Review of Decision-Making and Neyman-Pearson Lemma
-  description: We continue investigating the different ways of understanding error in a single hypothesis test.
+  topic: Multiple Hypothesis Testing
+  description: We continue investigating the different ways of understanding error in hypothesis testing.
     We introduce the Neyman-Pearson principle and Neyman-Pearson Lemma for controlling error in a single test, and
     also introduce the challenges involved in multiple hypothesis testing.
   slides: assets/lectures/lecture2.pdf
@@ -75,10 +75,10 @@
     - [Disc 2 Solutions](assets/disc/disc02/disc02_sol.pdf)
 
 - date: Thursday 9/10/20
-  topic: Fairness in Decision-Making
-  slides: https://docs.google.com/presentation/d/16U2-pEk7koH-GbjVgt7XTPUnWWWJURTRddCXpz-GIkc/edit?usp=sharing
+  topic: Frequentist and Bayesian Decision-Making, Privacy, Fairness
+  slides:
   resources: |
-    - [**Notes**](assets/notes/notes05.pdf)
+#     - [**Notes**](assets/notes/notes05.pdf)
 
 - date: 9/15/20
   topic: Review of Bayesian Modeling
