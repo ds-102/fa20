@@ -16,6 +16,8 @@ This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-fal
 * **What:** See the [lecture schedule](syllabus)
 * **News:** We will post updates about the class on Piazza.
 
+**If you are requesting an extension for a HW or lab assignment (due to either DSP accommodations or other extenuating circumstances), please email any of the GSIs prior to the original deadline date.** Please avoid emailing the professors.
+
 ## Lab, Discussion, and Office Hours Schedules
 
 See Piazza posts for corresponding Zoom links.
