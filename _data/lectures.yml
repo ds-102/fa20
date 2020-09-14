@@ -61,7 +61,7 @@
   homework: |
     - [HW 1 released](assets/hw/hw1/hw01.zip)
   lab: |
-    - [Lab 1 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/): _Due Wednesday Sep 9th_
+    - [Lab 1 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/): _Due Wednesday Sep 9th, 11:59PM on Gradescope_
 
 - date: Tuesday 9/8/20
   topic: Online False Discovery Rate Control
@@ -79,6 +79,9 @@
   slides: assets/lectures/lecture5.pdf
   resources: |
     - [**Notes (Fairness in Decision-Making)**](assets/notes/notes05.pdf)
+  lab: |
+    - [Lab 2 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab2/): _Due Tuesday Sep 15th, 11:59PM on Gradescope_
+
 
 - date: 9/15/20
   topic: Review of Bayesian Modeling
