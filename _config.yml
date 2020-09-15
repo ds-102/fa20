@@ -18,7 +18,7 @@ highlighter: rouge
 title: Data 102 Fall 20
 tagline: Principles and Techniques of Data Science
 
-baseurl: /
+baseurl: '/fa20'
 
 sass:
   style: compressed
