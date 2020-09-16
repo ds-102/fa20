@@ -86,14 +86,11 @@
   topic: Review of Bayesian Modeling
   lab: |
     - [Lab 2 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab2/): _Due Tuesday Sep 15th, 11:59PM on Gradescope_
-<<<<<<< HEAD
     - [Lab 1 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/)
-=======
   discussion: |
     - [Disc 3](assets/disc/disc03/disc03_nosol.pdf)
     - [Disc 3 Solutions](assets/disc/disc03/disc03.pdf)
-  
->>>>>>> dc932660f4d899de8dc017d7dbf22d1ceb4a3b64
+
 
 - date: 9/17/20
   topic: Graphical Models
