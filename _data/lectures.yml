@@ -96,8 +96,9 @@
     - [Disc 3 Solutions](assets/disc/disc03/disc03.pdf)
 
 
-- date: 9/17/20
+- date: Thursday 9/17/20
   topic: Graphical Models
+  slides: assets/lectures/lecture7.pdf
 
 - date: 9/22/20
   topic: Rejection and Importance Sampling
