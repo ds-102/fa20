@@ -99,6 +99,8 @@
 - date: Thursday 9/17/20
   topic: Graphical Models
   slides: assets/lectures/lecture7.pdf
+  resources: |
+    - [Notes (Sections 9.1-9.3)](assets/notes/notes09.pdf)
 
 - date: 9/22/20
   topic: Rejection and Importance Sampling
