@@ -97,6 +97,9 @@
 
 - date: 9/22/20
   topic: Rejection and Importance Sampling
+  lab:
+   - [Lab 3 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/): _Due Tuesday Sep 22nd, 11:59PM on Gradescope_
+
 
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
