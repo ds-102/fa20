@@ -105,6 +105,8 @@
 - date: 9/22/20
   topic: Rejection sampling and Markov Chains
   slides: assets/lectures/lecture8.pdf
+  resources: |
+    - [Rejection Sampling Jupyter notebook](assets/lectures/rejection_sampling.ipynb)
 
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
