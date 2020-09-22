@@ -107,11 +107,12 @@
   slides: assets/lectures/lecture8.pdf
   resources: |
     - [Rejection Sampling Jupyter notebook](assets/lectures/rejection_sampling.ipynb)
+  lab: |
+    - [Lab 3 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/): _Due Tuesday Sep 22nd, 11:59PM on Gradescope_
   discussion: |
     - [Disc 4](assets/disc/disc04/DIS4.pdf)
     - [Disc 4 Solutions](assets/disc/disc04/DIS4_SOL.pdf)
-  lab: |
-    - [Lab 3 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/): _Due Tuesday Sep 22nd, 11:59PM on Gradescope_
+ 
 
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
