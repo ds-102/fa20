@@ -103,10 +103,13 @@
     - [Notes (Sections 9.1-9.3)](assets/notes/notes09.pdf)
 
 - date: 9/22/20
-  topic: Rejection sampling and Markov Chains
+  topic: Rejection Sampling and Markov Chains
   slides: assets/lectures/lecture8.pdf
   resources: |
     - [Rejection Sampling Jupyter notebook](assets/lectures/rejection_sampling.ipynb)
+  discussion: |
+    - [Disc 4](assets/disc/disc04/DIS4.pdf)
+    - [Disc 4 Solutions](assets/disc/disc04/DIS4_SOL.pdf
 
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
