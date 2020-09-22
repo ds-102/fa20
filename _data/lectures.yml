@@ -103,7 +103,8 @@
     - [Notes (Sections 9.1-9.3)](assets/notes/notes09.pdf)
 
 - date: 9/22/20
-  topic: Rejection and Importance Sampling
+  topic: Rejection sampling and Markov Chains
+  slides: assets/lectures/lecture8.pdf
 
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
