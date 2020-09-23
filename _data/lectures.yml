@@ -82,8 +82,12 @@
     - [**Notes (Fairness in Decision-Making)**](assets/notes/notes05.pdf)
 
 
-- date: 9/15/20
+- date: Tuesday 9/15/20
   topic: Review of Bayesian Modeling
+  slides: assets/lectures/lecture6.pdf
+  resources: |
+    - [Bayes Introduction Jupyter notebook](assets/lectures/bayes_intro.ipynb)
+    - [galton.csv](assets/lectures/galton.csv)
   lab: |
     - [Lab 2 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab2/): _Due Tuesday Sep 15th, 11:59PM on Gradescope_
     - [Lab 1 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/)
@@ -92,13 +96,22 @@
     - [Disc 3 Solutions](assets/disc/disc03/disc03.pdf)
 
 
-- date: 9/17/20
+- date: Thursday 9/17/20
   topic: Graphical Models
+  slides: assets/lectures/lecture7.pdf
+  resources: |
+    - [Notes (Sections 9.1-9.3)](assets/notes/notes09.pdf)
 
 - date: 9/22/20
-  topic: Rejection and Importance Sampling
-  lab:
-   - [Lab 3 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/): _Due Tuesday Sep 22nd, 11:59PM on Gradescope_
+  topic: Rejection Sampling and Markov Chains
+  slides: assets/lectures/lecture8.pdf
+  resources: |
+    - [Rejection Sampling Jupyter notebook](assets/lectures/rejection_sampling.ipynb)
+  lab: |
+    - [Lab 3 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/): _Due Tuesday Sep 22nd, 11:59PM on Gradescope_
+  discussion: |
+    - [Disc 4](assets/disc/disc04/DIS4.pdf)
+    - [Disc 4 Solutions](assets/disc/disc04/DIS4_SOL.pdf)
 
 
 - date: 9/24/20
