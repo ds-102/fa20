@@ -117,6 +117,8 @@
 
 - date: 9/24/20
   topic: MCMC and Gibbs Sampling
+  homework: |
+    - [HW 2 released](assets/hw/hw2/hw02.zip)
 
 - date: 9/29/20
   topic: Regression (Bayesian)
