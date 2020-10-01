@@ -138,7 +138,10 @@
 
 - date: 10/1/20
   topic: Regression (Frequentist)
-
+  slides: assets/lectures/lecture11.pdf
+  resources: |
+    - [Frequentist Regression and Bootstrap Example Jupyter notebook](assets/lectures/lecture11.ipynb)
+    
 - date: 10/6/20
   topic: Bootstrap
 
