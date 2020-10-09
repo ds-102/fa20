@@ -206,5 +206,3 @@
 
 - date: 12/15/20
   topic: Final Exam
-
- Z_bar + (1 / sqrt(1 + ((hk**2) / X_var))) * (Z_star - Z_bar + (hk * epsilon))
