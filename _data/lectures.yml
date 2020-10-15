@@ -129,7 +129,9 @@
   lab: |
     - [Lab 4 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab4/): _Due Wednesday Sep 30th, 11:59PM on Gradescope_
     - [Lab 3 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/)
-
+  discussion: |
+    - [Disc 5](assets/disc/disc05/DIS5.pdf)
+    - [Disc 5 Solutions](assets/disc/disc05/DIS5_SOL.pdf)
 
 - date: 10/1/20
   topic: Regression (Frequentist)
@@ -145,6 +147,9 @@
     - [Lab 4 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab4/)
   homework: |
     - [HW 3 released](assets/hw/hw3/hw03.zip)
+  discussion: |
+    - [Disc 6](assets/disc/disc06/disc06.pdf)
+    - [Disc 6 Solutions](assets/disc/disc06/disc06_sol.pdf)
 
 
 - date: 10/8/20
@@ -157,7 +162,9 @@
   lab: |
     - [Lab 6 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/): _Due Thursday Oct 15th, 11:59PM on Gradescope_
     - [Lab 5 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab5/)
-
+  discussion: |
+    - [Disc 7](assets/disc/disc07/DIS7.pdf)
+    - [Disc 7 Solutions](assets/disc/disc07/DIS7_SOL.pdf)
 
 
 - date: 10/15/20
