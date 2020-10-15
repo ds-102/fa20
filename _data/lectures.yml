@@ -26,6 +26,10 @@
 #
 # for d in days[(days.dayofweek == 1) | (days.dayofweek == 3)]:
 #     print(str(d.month) + "/" + str(d.day) + "/" + str(d.year))
+
+- date: Tuesday 08/25/20
+  topic: (No class)
+
 - date: Thursday 8/27/20
   topic: Course Overview, Making Decisions Under Uncertainty
   description: We provide an overview of data science and where it might head in the future.
@@ -133,13 +137,13 @@
     - [Disc 5](assets/disc/disc05/DIS5.pdf)
     - [Disc 5 Solutions](assets/disc/disc05/DIS5_SOL.pdf)
 
-- date: 10/1/20
+- date: Thursday 10/1/20
   topic: Regression (Frequentist)
   slides: assets/lectures/lecture11.pdf
   resources: |
     - [Frequentist Regression and Bootstrap Example Jupyter notebook](assets/lectures/lecture11.ipynb)
 
-- date: 10/6/20
+- date: Tuesday 10/6/20
   topic: Bootstrap
   slides: assets/lectures/lecture12_note.pdf
   lab: |
@@ -152,11 +156,11 @@
     - [Disc 6 Solutions](assets/disc/disc06/disc06_sol.pdf)
 
 
-- date: 10/8/20
+- date: Thursday 10/8/20
   topic: Causal Inference I
   slides: assets/lectures/lecture13.pdf
 
-- date: 10/13/20
+- date: Tuesday 10/13/20
   topic: Causal Inference II
   slides: assets/lectures/lecture14.pptx
   lab: |
@@ -167,56 +171,56 @@
     - [Disc 7 Solutions](assets/disc/disc07/DIS7_SOL.pdf)
 
 
-- date: 10/15/20
+- date: Thursday 10/15/20
   topic: Rudiments of Experimental Design
 
-- date: 10/20/20
+- date: Tuesday 10/20/20
   topic: Midterm
 
-- date: 10/22/20
+- date: Thursday 10/22/20
   topic: Concentration Inequalities
 
-- date: 10/27/20
+- date: Tuesday 10/27/20
   topic: Bandits I
 
-- date: 10/29/20
+- date: Thursday 10/29/20
   topic: Bandits II
 
-- date: 11/3/20
+- date: Tuesday 11/3/20
   topic: Matching Markets
 
-- date: 11/5/20
+- date: Thursday 11/5/20
   topic: Game Theory
 
-- date: 11/10/20
+- date: Tuesday 11/10/20
   topic: Reinforcement Learning I
 
-- date: 11/12/20
+- date: Thursday 11/12/20
   topic: Reinforcement Learning II
 
-- date: 11/17/20
+- date: Tuesday 11/17/20
   topic: Nonparametric Methods
 
-- date: 11/19/20
+- date: Thursday 11/19/20
   topic: Generalization, Robustness, Distribution Shift I
 
-- date: 11/24/20
+- date: Tuesday 11/24/20
   topic: Generalization, Robustness, Distribution Shift II
 
-- date: 11/26/20
+- date: Thursday 11/26/20
   topic: "Thanksgiving Break"
 
-- date: 12/1/20
+- date: Tuesday 12/1/20
   topic: Differential Privacy
 
-- date: 12/3/20
+- date: Thursday 12/3/20
   topic: Wrap-up Lecture
 
-- date: 12/8/20
+- date: Tuesday 12/8/20
   topic: RRR week
 
-- date: 12/10/20
+- date: Thursday 12/10/20
   topic: RRR week
 
-- date: 12/15/20
+- date: Tuesday 12/15/20
   topic: Final Exam
