@@ -172,7 +172,7 @@
 
 
 - date: Thursday 10/15/20
-  topic: Rudiments of Experimental Design
+  topic: Causal Inference II (continued)
 
 - date: Tuesday 10/20/20
   topic: Midterm
@@ -181,7 +181,7 @@
   topic: Concentration Inequalities
   slides: assets/lectures/lecture17.pdf
   resources: |
-    - [Notebook](assets/lectures/lecture17.ipynb)
+    - [Concentration Inequalities Notebook](assets/lectures/lecture17.ipynb)
 
 - date: Tuesday 10/27/20
   topic: Bandits I
