@@ -179,6 +179,9 @@
 
 - date: Thursday 10/22/20
   topic: Concentration Inequalities
+  slides: assets/lectures/lecture17.pdf
+  resources: |
+    - [Notebook](assets/lectures/lecture17.ipynb)
 
 - date: Tuesday 10/27/20
   topic: Bandits I
