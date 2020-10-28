@@ -182,14 +182,19 @@
   slides: assets/lectures/lecture17.pdf
   resources: |
     - [Concentration Inequalities Notebook](assets/lectures/lecture17.ipynb)
-  lab: |
-    - [Lab 7 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab7/): _Due Thursday Oct 15th, 11:59PM on Gradescope_
-    - [Lab 6 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/)
-
 
 - date: Tuesday 10/27/20
   topic: Bandits I
   slides: assets/lectures/lecture18.pptx
+  resources: |
+    - [Interactive UCB Code](assets/lectures/UCB_interactive.py)
+    - [UCB Demo Notebook](assets/lectures/UCB_demo.ipynb)
+  lab: |
+    - [Lab 7 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab7/): _Due Thursday Oct 15th, 11:59PM on Gradescope_
+    - [Lab 6 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/)
+  discussion: |
+    - [Disc 8](assets/disc/disc08/DIS8.pdf)
+    - [Disc 8 Solutions](assets/disc/disc08/DIS8_SOL.pdf)
 
 - date: Thursday 10/29/20
   topic: Bandits II
