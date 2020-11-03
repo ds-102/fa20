@@ -109,6 +109,8 @@
   slides: assets/lectures/lecture8.pdf
   resources: |
     - [Rejection Sampling Jupyter notebook](assets/lectures/rejection_sampling.ipynb)
+  notes: |
+    - [Notes on Rejection Sampling (Sections 10.1-10.2)](https://data102.org/sp20/assets/notes/notes10.pdf)
   lab: |
     - [Lab 3 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/): _Due Tuesday Sep 22nd, 11:59PM on Gradescope_
     - [Lab 2 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab2/)
@@ -122,6 +124,8 @@
   slides: assets/lectures/lecture9.pdf
   resources: |
     - [Gibbs Sampling Jupyter notebook](assets/lectures/gibbs_sampling.ipynb)
+  notes: |
+    - [Notes](https://data102.org/sp20/assets/notes/notes11.pdf)
   homework: |
     - [HW 2 released](assets/hw/hw2/hw02.zip)
 
@@ -146,6 +150,8 @@
 - date: Tuesday 10/6/20
   topic: Bootstrap
   slides: assets/lectures/lecture12_note.pdf
+  notes: |
+    - [Notes](https://data102.org/sp20/assets/notes/notes26.pdf)
   lab: |
     - [Lab 5 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab5/): _Due Thursday Oct 8th, 11:59PM on Gradescope_
     - [Lab 4 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab4/)
@@ -159,10 +165,14 @@
 - date: Thursday 10/8/20
   topic: Causal Inference I
   slides: assets/lectures/lecture13.pdf
+  notes: |
+    - [Notes](https://data102.org/sp20/assets/notes/notes13.pdf)
 
 - date: Tuesday 10/13/20
   topic: Causal Inference II
   slides: assets/lectures/lecture14.pptx
+  notes: |
+    - [Notes on Propensity Scores (Section 14.3)](https://data102.org/sp20/assets/notes/notes14.pdf)
   lab: |
     - [Lab 6 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/): _Due Thursday Oct 15th, 11:59PM on Gradescope_
     - [Lab 5 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab5/)
@@ -191,6 +201,8 @@
 - date: Tuesday 10/27/20
   topic: Bandits I
   slides: assets/lectures/lecture18.pptx
+  notes: |
+    - [Notes](https://data102.org/sp20/assets/notes/notes17.pdf)
   resources: |
     - [Interactive UCB Code](assets/lectures/UCB_interactive.py)
     - [UCB Demo Notebook](assets/lectures/UCB_demo.ipynb)
@@ -202,14 +214,13 @@
   topic: Bandits II
 
 - date: Tuesday 11/3/20
+  topic: Matching Markets
   lab: |
     - [Lab 8 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab8/): _Due Thursday Nov 5th, 11:59PM on Gradescope_
     - [Lab 7 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab7/)
   discussion: |
     - [Disc 9](assets/disc/disc09/DIS9.pdf)
     - [Disc 9 Solutions](assets/disc/disc09/DIS9_SOL.pdf)
-
-  topic: Matching Markets
 
 - date: Thursday 11/5/20
   topic: Game Theory
