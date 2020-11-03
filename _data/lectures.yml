@@ -48,7 +48,7 @@
     also introduce the challenges involved in multiple hypothesis testing.
   slides: assets/lectures/lecture2.pdf
   resources: |
-    - [**Notes**](assets/notes/notes02.pdf)
+    - [Notes](assets/notes/notes02.pdf)
   discussion: |
     - [Disc 1](assets/disc/disc01/disc01.pdf)
     - [Disc 1 Solutions](assets/disc/disc01/disc01_sols.pdf)
@@ -59,7 +59,7 @@
     We then look into Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
   slides: assets/lectures/lecture3.pdf
   resources: |
-    - [**Notes**](assets/notes/notes04.pdf)
+    - [Notes](assets/notes/notes04.pdf)
   homework: |
     - [HW 1 released](assets/hw/hw1/hw01.zip)
 
@@ -69,7 +69,7 @@
   description: We consider how to extend FDR control to the online setting, and introduce the LORD algorithm.
     We also begin to review the Bayesian and frequentist approahces to decision-making.
   resources: |
-    - [**Notes**](assets/notes/notes_online_FDR.pdf)
+    - [Notes](assets/notes/notes_online_FDR.pdf)
   discussion: |
     - [Disc 2](assets/disc/disc02/disc02.pdf)
     - [Disc 2 Solutions](assets/disc/disc02/disc02_sol.pdf)
@@ -81,7 +81,7 @@
   topic: Frequentist and Bayesian Decision-Making, Privacy, Fairness
   slides: assets/lectures/lecture5.pdf
   resources: |
-    - [**Notes (Fairness in Decision-Making)**](assets/notes/notes05.pdf)
+    - [Notes on Fairness in Decision-Making](assets/notes/notes05.pdf)
 
 
 - date: Tuesday 9/15/20
@@ -171,6 +171,7 @@
   slides: assets/lectures/lecture14.pptx
   resources: |
     - [Notes on Propensity Scores (Section 14.3)](https://data102.org/sp20/assets/notes/notes14.pdf)
+    - [Whiteboard Notes on Propensity Scores](assets/lectures/lecture14_notes.pdf)
   lab: |
     - [Lab 6 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/): _Due Thursday Oct 15th, 11:59PM on Gradescope_
     - [Lab 5 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab5/)
