@@ -188,9 +188,9 @@
 
 - date: Thursday 10/22/20
   topic: Concentration Inequalities
-  slides: assets/lectures/lecture17.pdf
   resources: |
     - [Concentration Inequalities Notebook](assets/lectures/lecture17.ipynb)
+    - [Whiteboard Notes](assets/lectures/lecture17.pdf)
   lab: |
     - [Lab 7 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab7/): _Due Wednesday Oct 28th, 11:59PM on Gradescope_
     - [Lab 6 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/)
