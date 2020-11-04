@@ -215,6 +215,7 @@
   topic: Matching Markets
   resources: |
     - [Slides](assets/lectures/lecture20.pptx)
+    - [Notes](assets/lectures/lecture20_notes.pdf)
   lab: |
     - [Lab 8 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab8/): _Due Thursday Nov 5th, 11:59PM on Gradescope_
     - [Lab 7 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab7/)
