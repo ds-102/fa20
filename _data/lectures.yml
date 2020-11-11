@@ -229,6 +229,9 @@
 
 - date: Tuesday 11/10/20
   topic: Reinforcement Learning I
+  slides: assets/lectures/lecture22.pdf
+  resources: |
+    - [Whiteboard Notes](assets/lectures/lecture22_notes.pdf)
 
 - date: Thursday 11/12/20
   topic: Reinforcement Learning II
