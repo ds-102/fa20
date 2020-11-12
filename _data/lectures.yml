@@ -232,9 +232,15 @@
   slides: assets/lectures/lecture22.pdf
   resources: |
     - [Whiteboard Notes](assets/lectures/lecture22_notes.pdf)
+    - [Notes](assets/lectures/notes22.pdf)
+  discussion: |
+    - [Disc 10](assets/disc/disc10/DIS10.pdf)
+    - [Disc 10 Solutions](assets/disc/disc10/DIS10_SOL.pdf)
 
 - date: Thursday 11/12/20
   topic: Reinforcement Learning II
+  resources: |
+    - [Notes](assets/lectures/notes23.pdf)
 
 - date: Tuesday 11/17/20
   topic: Nonparametric Methods
