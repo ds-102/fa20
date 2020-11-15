@@ -213,6 +213,10 @@
 
 - date: Tuesday 11/10/20
   topic: Reinforcement Learning I
+  lab: |
+    - [Lab 9 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab9/): _Due Thursday Nov 12th, 11:59PM on Gradescope_
+    - [Lab 8 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab8/)
+
 
 - date: Thursday 11/12/20
   topic: Reinforcement Learning II
