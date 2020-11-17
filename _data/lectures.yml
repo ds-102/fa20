@@ -247,6 +247,9 @@
 
 - date: Tuesday 11/17/20
   topic: Nonparametric Methods
+  slides: assets/lectures/lecture24.pdf
+  resources: |
+    - [Notebook on Non-parametric Modeling & PyTorch Examples](assets/lectures/lecture24.ipynb)
   lab: |
     - [Lab 10 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab10/)_Due Wednesday Nov 18th, 11:59PM on Gradescope_
   discussion: |
