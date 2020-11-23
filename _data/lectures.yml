@@ -253,7 +253,8 @@
   resources: |
     - [Notebook on Non-parametric Modeling & PyTorch Examples](assets/lectures/lecture24.ipynb)
   lab: |
-    - [Lab 10 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab10/)_Due Wednesday Nov 18th, 11:59PM on Gradescope_
+    - [Lab 10 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab10/)_Due Thursday Nov 19th, 11:59PM on Gradescope_
+    - [Lab 9 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab9/)
   discussion: |
     - [Disc 11](assets/disc/disc11/DIS11.pdf)
     - [Disc 11 Solutions](assets/disc/disc11/DIS11_SOL.pdf)
@@ -267,6 +268,9 @@
   discussion: |
     - [Disc 12](assets/disc/disc12/DIS12.pdf)
     - [Disc 12 Solutions](assets/disc/disc12/DIS12_SOL.pdf)
+  lab: |
+    - No Lab Assignment this week
+    - [Lab 10 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab10/)
 
 - date: Thursday 11/26/20
   topic: "Thanksgiving Break"
