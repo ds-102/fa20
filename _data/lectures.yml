@@ -265,9 +265,12 @@
 
 - date: Tuesday 11/24/20
   topic: Generalization, Robustness, Distribution Shift II
+  slides: https://docs.google.com/presentation/d/17RJp_2BubWwBOSkeivuVo3RFONz0NVx0rsOkMKgLrkU/edit#slide=id.ga3311be2fc_0_121
   discussion: |
     - [Disc 12](assets/disc/disc12/DIS12.pdf)
     - [Disc 12 Solutions](assets/disc/disc12/DIS12_SOL.pdf)
+  homework: |
+    - [HW 6 released](assets/hw/hw6/hw06.zip)
   lab: |
     - No Lab Assignment this week
     - [Lab 10 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab10/)
