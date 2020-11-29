@@ -277,6 +277,9 @@
 
 - date: Tuesday 12/1/20
   topic: Differential Privacy
+  lab: |
+    - [Lab 11 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab11/)_Due Thursday Dec 3rd, 11:59PM on Gradescope_
+
 
 - date: Thursday 12/3/20
   topic: Wrap-up Lecture
