@@ -51,7 +51,6 @@
     - [Notes](assets/notes/notes02.pdf)
   discussion: |
     - [Disc 1](assets/disc/disc01/disc01.pdf)
-    - [Disc 1 Solutions](assets/disc/disc01/disc01_sols.pdf)
 
 - date: Thursday 9/3/20
   topic: False Discovery Rate Control
@@ -72,7 +71,6 @@
     - [Notes](assets/notes/notes_online_FDR.pdf)
   discussion: |
     - [Disc 2](assets/disc/disc02/disc02.pdf)
-    - [Disc 2 Solutions](assets/disc/disc02/disc02_sol.pdf)
   lab: |
     - [Lab 1 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/): _Due Wednesday Sep 9th, 11:59PM on Gradescope_
 
@@ -92,10 +90,8 @@
     - [galton.csv](assets/lectures/galton.csv)
   lab: |
     - [Lab 2 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab2/): _Due Tuesday Sep 15th, 11:59PM on Gradescope_
-    - [Lab 1 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab1/)
   discussion: |
     - [Disc 3](assets/disc/disc03/disc03_nosol.pdf)
-    - [Disc 3 Solutions](assets/disc/disc03/disc03.pdf)
 
 
 - date: Thursday 9/17/20
@@ -112,10 +108,8 @@
     - [Notes on Rejection Sampling (Sections 10.1-10.2)](https://data102.org/sp20/assets/notes/notes10.pdf)
   lab: |
     - [Lab 3 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/): _Due Tuesday Sep 22nd, 11:59PM on Gradescope_
-    - [Lab 2 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab2/)
   discussion: |
     - [Disc 4](assets/disc/disc04/DIS4.pdf)
-    - [Disc 4 Solutions](assets/disc/disc04/DIS4_SOL.pdf)
 
 
 - date: Thursday 9/24/20
@@ -134,10 +128,8 @@
     - [Bayesian Regression Jupyter notebook](assets/lectures/lecture10.ipynb)
   lab: |
     - [Lab 4 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab4/): _Due Wednesday Sep 30th, 11:59PM on Gradescope_
-    - [Lab 3 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab3/)
   discussion: |
     - [Disc 5](assets/disc/disc05/DIS5.pdf)
-    - [Disc 5 Solutions](assets/disc/disc05/DIS5_SOL.pdf)
 
 - date: Thursday 10/1/20
   topic: Regression (Frequentist)
@@ -152,12 +144,10 @@
     - [Notes](https://data102.org/sp20/assets/notes/notes26.pdf)
   lab: |
     - [Lab 5 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab5/): _Due Thursday Oct 8th, 11:59PM on Gradescope_
-    - [Lab 4 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab4/)
   homework: |
     - [HW 3 released](assets/hw/hw3/hw03.zip)
   discussion: |
     - [Disc 6](assets/disc/disc06/disc06.pdf)
-    - [Disc 6 Solutions](assets/disc/disc06/disc06_sol.pdf)
 
 
 - date: Thursday 10/8/20
@@ -174,10 +164,8 @@
     - [Whiteboard Notes on Propensity Scores](assets/lectures/lecture14_notes.pdf)
   lab: |
     - [Lab 6 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/): _Due Thursday Oct 15th, 11:59PM on Gradescope_
-    - [Lab 5 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab5/)
   discussion: |
     - [Disc 7](assets/disc/disc07/DIS7.pdf)
-    - [Disc 7 Solutions](assets/disc/disc07/DIS7_SOL.pdf)
 
 
 - date: Thursday 10/15/20
@@ -193,7 +181,6 @@
     - [Whiteboard Notes](assets/lectures/lecture17.pdf)
   lab: |
     - [Lab 7 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab7/): _Due Wednesday Oct 28th, 11:59PM on Gradescope_
-    - [Lab 6 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab6/)
   homework: |
     - [HW 4 released](assets/hw/hw4/hw04.zip)
 
@@ -206,7 +193,6 @@
     - [Notes](https://data102.org/sp20/assets/notes/notes17.pdf)
   discussion: |
     - [Disc 8](assets/disc/disc08/DIS8.pdf)
-    - [Disc 8 Solutions](assets/disc/disc08/DIS8_SOL.pdf)
 
 - date: Thursday 10/29/20
   topic: Bandits II
@@ -218,10 +204,8 @@
     - [Notes](assets/lectures/lecture20_notes.pdf)
   lab: |
     - [Lab 8 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab8/): _Due Thursday Nov 5th, 11:59PM on Gradescope_
-    - [Lab 7 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab7/)
   discussion: |
     - [Disc 9](assets/disc/disc09/DIS9.pdf)
-    - [Disc 9 Solutions](assets/disc/disc09/DIS9_SOL.pdf)
 
 - date: Thursday 11/5/20
   topic: Game Theory
@@ -235,12 +219,10 @@
     - [Notes](assets/lectures/notes22.pdf)
   discussion: |
     - [Disc 10](assets/disc/disc10/DIS10.pdf)
-    - [Disc 10 Solutions](assets/disc/disc10/DIS10_SOL.pdf)
   homework: |
     - [HW 5 released](assets/hw/hw5/hw05.zip)
   lab: |
     - [Lab 9 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab9/)_Due Thursday Nov 12th, 11:59PM on Gradescope_
-    - [Lab 8 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab8/)
 
 - date: Thursday 11/12/20
   topic: Reinforcement Learning II
@@ -254,10 +236,8 @@
     - [Notebook on Non-parametric Modeling & PyTorch Examples](assets/lectures/lecture24.ipynb)
   lab: |
     - [Lab 10 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab10/)_Due Thursday Nov 19th, 11:59PM on Gradescope_
-    - [Lab 9 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab9/)
   discussion: |
     - [Disc 11](assets/disc/disc11/DIS11.pdf)
-    - [Disc 11 Solutions](assets/disc/disc11/DIS11_SOL.pdf)
 
 - date: Thursday 11/19/20
   topic: Generalization, Robustness, Distribution Shift I
@@ -268,12 +248,10 @@
   slides: https://docs.google.com/presentation/d/17RJp_2BubWwBOSkeivuVo3RFONz0NVx0rsOkMKgLrkU/edit#slide=id.ga3311be2fc_0_121
   discussion: |
     - [Disc 12](assets/disc/disc12/DIS12.pdf)
-    - [Disc 12 Solutions](assets/disc/disc12/DIS12_SOL.pdf)
   homework: |
     - [HW 6 released](assets/hw/hw6/hw06.zip)
   lab: |
     - No Lab Assignment this week
-    - [Lab 10 solutions released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab10/)
 
 - date: Thursday 11/26/20
   topic: "Thanksgiving Break"
@@ -285,7 +263,6 @@
     - [Lab 11 released](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa20&subPath=lab/lab11/)_Due Thursday Dec 3rd, 11:59PM on Gradescope_
   discussion: |
     - [Disc 13](assets/disc/disc13/DIS13.pdf)
-    - [Disc 13 Solutions](assets/disc/disc13/DIS13_SOL.pdf)
 
 - date: Thursday 12/3/20
   topic: Wrap-up Lecture
